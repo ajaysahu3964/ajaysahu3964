@@ -1,5 +1,5 @@
 
-![MasterHead](https://media1.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=790b7611e8406a11fe5167ababad5eefb64b8f7467cac9f7&rid=giphy.gif&ct=g)
+![MasterHead](https://i.pinimg.com/originals/bf/c6/7a/bfc67a7da17b8a3f224b0ba748c71364.gif)
 <h1 align="center">Hi 👋, I'm Ajay Sahu</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
