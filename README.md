@@ -1,11 +1,12 @@
-### 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 
-<h1 align="center">Hi 👋, I'm Ajay sahu</h1>
-<h3 align="center">A python developer from India</h3>
+![MasterHead](https://media1.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=790b7611e8406a11fe5167ababad5eefb64b8f7467cac9f7&rid=giphy.gif&ct=g)
+<h1 align="center">Hi 👋, I'm Ajay Sahu</h1>
+<h3 align="center">A passionate Backend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaysahu3964&label=Profile%20views&color=0e75b6&style=flat" alt="ajaysahu3964" /> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="ajaysahu3964/"> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajaysahu3964" alt="ajaysahu3964" /></a> </p>
 
@@ -36,6 +37,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajaysahu3964&show_icons=true&locale=en&layout=compact" alt="ajaysahu3964" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajaysahu3964&show_icons=true&locale=en" alt="ajaysahu3964" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajaysahu3964&" alt="ajaysahu3964" /></p>
-
