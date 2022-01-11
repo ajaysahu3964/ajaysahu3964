@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajaysahu3964" alt="ajaysahu3964" /></a> </p>
 
-- 🔭 I’m currently working on **shoestore**
+- 🔭 I’m currently working on **Django projects **
 
 - 🌱 I’m currently learning **java script**
 
