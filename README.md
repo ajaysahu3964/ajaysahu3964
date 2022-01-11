@@ -1,4 +1,4 @@
-### Hi there 👋
+### 
 
 <h1 align="center">Hi 👋, I'm Ajay sahu</h1>
 <h3 align="center">A python developer from India</h3>
