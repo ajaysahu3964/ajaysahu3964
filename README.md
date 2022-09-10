@@ -1,7 +1,7 @@
 
 ![MasterHead](https://i.pinimg.com/originals/bf/c6/7a/bfc67a7da17b8a3f224b0ba748c71364.gif)
 <h1 align="center">Hi 👋, I'm Ajay Sahu</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h3 align="center">A passionate QA Tester from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaysahu3964&label=Profile%20views&color=0e75b6&style=flat" alt="ajaysahu3964" /> </p>
@@ -10,9 +10,9 @@
 
 
 
-- 🔭 I’m currently working on **Django projects**
+- 🔭 I’m currently working on **Automation projects**
 
-- 🌱 I’m currently learning **java script**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **cool projects / product**
 
